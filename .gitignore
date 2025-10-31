@@ -1,0 +1,27 @@
+# Construcción
+build/
+*.o
+*.exe
+*.out
+a.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Doxygen
+docs/html/
+docs/latex/
+
+# Sistema
+.DS_Store
+Thumbs.db
